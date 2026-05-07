@@ -1,24 +1,18 @@
 # SMK Lundu STEM Carnival 2026 | Karnival STEM SMK Lundu 2026
 
-<!DOCTYPE html>
-<html>
+<h1>
+Welcome to SMK Lundu
+<br>
+Selamat Datang ke SMK Lundu
+</h1>
 
-<head>
-    <title>SMK Lundu</title>
-</head>
+<h2>About School</h2>
+<h3>Tentang Sekolah</h3>
 
-<body>
-
-<button onclick="changeLanguage('en')">English</button>
-<button onclick="changeLanguage('bm')">BM</button>
-
-<h1 id="title">Welcome to SMK Lundu</h1>
-
-<p id="about">
-SMK Lundu is dedicated to STEM education.
+<p>
+SMK Lundu is dedicated to academic excellence.
 </p>
 
-<script src="script.js"></script>
-
-</body>
-</html>
+<p>
+SMK Lundu komited terhadap kecemerlangan akademik.
+</p>
