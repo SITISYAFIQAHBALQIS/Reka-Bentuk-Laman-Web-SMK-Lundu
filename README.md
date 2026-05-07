@@ -4,6 +4,9 @@
 
 <p align="center"
 ## SMK Lundu STEM Carnival 2026 | Karnival STEM SMK Lundu 2026 <br clear="center" />
+  </p>
+  
+<p align="center"
 SMK Lundu komited terhadap kecemerlangan akademik.
 </p>
 
