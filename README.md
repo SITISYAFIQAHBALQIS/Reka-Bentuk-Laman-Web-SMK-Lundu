@@ -19,4 +19,5 @@ SMK Lundu komited terhadap kecemerlangan akademik.
 
 YEE1401.jpg
 ---
-![Test](path/to/YEE1401.jpg)
+![Test](path/to/Reka-Bentuk-Laman-Web-SMK-Lundu
+/YEE1401.jpg)
