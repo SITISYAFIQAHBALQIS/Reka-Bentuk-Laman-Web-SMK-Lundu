@@ -17,4 +17,4 @@ SMK Lundu is dedicated to academic excellence.
 SMK Lundu komited terhadap kecemerlangan akademik.
 </p>
 
-<a href="https://github.com/SITISYAFIQAHBALQIS/Reka-Bentuk-Laman-Web-SMK-Lundu/blob/Homepage/YEE1401.jpg/">Test</a>
+<img src="https://github.com/SITISYAFIQAHBALQIS/Reka-Bentuk-Laman-Web-SMK-Lundu/blob/Homepage/YEE1401.jpg" alt="Test" />
