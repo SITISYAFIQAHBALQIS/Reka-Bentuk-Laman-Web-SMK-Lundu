@@ -16,11 +16,9 @@ SMK Lundu komited terhadap kecemerlangan akademik.
 Selamat Datang ke SMK Lundu
 </h1>
 
-<p align="center">
-<h2>Tentang Sekolah</h2>
-</p>
+<h2 align="center">Tentang Sekolah</h2>
 
-
+| Centered |
 | Item   | Deskripsi     |
 |--------|---------------|
 | School Name  | Sekolah  Menengah Kebangsaan Lundu       |
