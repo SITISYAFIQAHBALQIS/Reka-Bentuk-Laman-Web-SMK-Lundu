@@ -1,7 +1,9 @@
 <p align="center">
-<img src="https://github.com/SITISYAFIQAHBALQIS/Reka-Bentuk-Laman-Web-SMK-Lundu/blob/Homepage/YEE1401.jpg" alt="Test" width="100" height="100"> SMK Lundu STEM Carnival 2026 | Karnival STEM SMK Lundu 2026 <br clear="center" />
+<img src="https://github.com/SITISYAFIQAHBALQIS/Reka-Bentuk-Laman-Web-SMK-Lundu/blob/Homepage/YEE1401.jpg" alt="Test" width="100" height="100"> 
 </p>
-
+<p align="center">
+SMK Lundu STEM Carnival 2026 | Karnival STEM SMK Lundu 2026
+</p>
 ---
 
 <p align="center">
