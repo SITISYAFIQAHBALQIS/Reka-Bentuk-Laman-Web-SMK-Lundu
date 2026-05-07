@@ -22,11 +22,10 @@ Selamat Datang ke SMK Lundu
 <h2>Tentang Sekolah</h2>
 </p>
 
-<p align="center">
+
 | Item   | Deskripsi     |
 |--------|---------------|
 | School Name  | Sekolah  Menengah Kebangsaan Lundu       |
 | Address | Km2, Jalan Lundu/Pandan
 94500 Lundu       |
 | School Code  | YEE1401         |
-</p>
