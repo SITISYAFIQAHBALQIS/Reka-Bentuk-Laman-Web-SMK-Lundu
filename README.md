@@ -5,23 +5,16 @@
 ---
 
 <p>
-SMK Lundu is dedicated to academic excellence.
-</p>
-
-<p>
 SMK Lundu komited terhadap kecemerlangan akademik.
 </p>
 
 ---
 
 <h1>
-Welcome to SMK Lundu
-<br>
-Selamat Datang ke SMK Lundu
+  Selamat Datang ke SMK Lundu
 </h1>
 
-<h2>About School</h2>
-<h3>Tentang Sekolah</h3>
+<h2>Tentang Sekolah</h2>
 
 | Item   | Deskripsi     |
 |--------|---------------|
@@ -30,4 +23,4 @@ Selamat Datang ke SMK Lundu
 94500 Lundu       |
 | School Code  | YEE1401         |
 
-
+---
