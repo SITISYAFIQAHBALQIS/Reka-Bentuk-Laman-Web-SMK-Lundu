@@ -6,6 +6,7 @@
 
 <p>
 SMK Lundu komited terhadap kecemerlangan akademik.
+  "Berdisiplin, Berilmu, dan Berbakti"
 </p>
 
 ---
