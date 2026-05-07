@@ -18,7 +18,7 @@ Selamat Datang ke SMK Lundu
 
 <h2 align="center">Tentang Sekolah</h2>
 
-| Centered |
+| Centered Text |
 | Item   | Deskripsi     |
 |--------|---------------|
 | School Name  | Sekolah  Menengah Kebangsaan Lundu       |
