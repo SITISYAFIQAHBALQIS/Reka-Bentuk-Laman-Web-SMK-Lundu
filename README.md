@@ -16,3 +16,5 @@ SMK Lundu is dedicated to academic excellence.
 <p>
 SMK Lundu komited terhadap kecemerlangan akademik.
 </p>
+
+YEE1401.jpg
