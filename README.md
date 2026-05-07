@@ -4,7 +4,6 @@
 <details> <p align="center">
 <summary>SMK Lundu STEM Carnival 2026 | Karnival STEM SMK Lundu 2026</summary>
 </p>
-<details>
 
 ---
 
