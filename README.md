@@ -4,7 +4,7 @@
 
 ---
 
-<p> align="center">
+<p align="center">
 SMK Lundu komited terhadap kecemerlangan akademik.
 </p>
 <p align="center">
